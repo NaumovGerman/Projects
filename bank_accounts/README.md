@@ -12,7 +12,7 @@ Cоздание модели машинного обучения, позволя
 
 ![image](https://github.com/NaumovGerman/Projects/assets/90508172/097448b5-81ae-488b-8dbc-9c451c093c3c)
 
-Для соревнования использовалась модель Stacking:
+Для соревнования использовалась модель Stacking, которая позволила обогнать 93% участников:
 
 ![image](https://github.com/NaumovGerman/Projects/assets/90508172/1e4bb286-56ae-4900-9a29-baf244e0cab1)
 
